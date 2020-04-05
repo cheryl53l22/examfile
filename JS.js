@@ -60,5 +60,6 @@ xhr.onload=function(){
         count.innerHTML=str_all;
         list.innerHTML=str_h4;
     })
+    console.log('another hw');
 
 }
